@@ -1,1 +1,1 @@
-# django-test-13th
+# 수정함 내가 django-test-13th
